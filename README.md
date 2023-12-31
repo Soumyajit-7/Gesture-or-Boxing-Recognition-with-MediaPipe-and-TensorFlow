@@ -15,8 +15,8 @@ Make sure to install the required libraries before running the code. You can use
 ```bash
 pip install -r requirements.txt
 
-git clone https://github.com/your-username/gesture-recognition.git
-cd gesture-recognition
+git clone [https://github.com/your-username/gesture-recognition.git
+cd gesture-recognition](https://github.com/Soumyajit-7/Gesture-or-Boxing-Recognition-with-MediaPipe-and-TensorFlow.git)https://github.com/Soumyajit-7/Gesture-or-Boxing-Recognition-with-MediaPipe-and-TensorFlow.git
 
 pip install -r requirements.txt
 
